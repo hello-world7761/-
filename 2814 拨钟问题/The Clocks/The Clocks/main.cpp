@@ -1,6 +1,6 @@
 #include<cstdio>
 #include<cstdlib>
-#define MAXN 9
+#define MAXN 
 int clocks[MAXN+5],Trans[MAXN+5];
 const int f[MAXN+5][MAXN+5]=
 {
